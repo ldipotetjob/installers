@@ -11,7 +11,7 @@ sudo mv scala-2.11.2 /usr/lib
 sudo ln -s /usr/lib/scala-2.11.2 /usr/lib/scala
 
 #add Scala Directory in current session 
-export PATH=$PATH:/usr/lib/scala/bin
+export PATH=$PATH:/usr/lib/scala/bin/
 
 #add Scala Directory PERMANENT
 #echo 'export PATH=$PATH:/usr/lib/scala/bin' >> /home/user/.bashrc
